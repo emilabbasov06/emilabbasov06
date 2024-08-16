@@ -1,6 +1,14 @@
 # Hey there! 😄
 
-I'm Emil, a 17 year old who's passionate about coding and building stuff. 🚀
+I'm Emil, a 18 year old who's passionate about coding and building stuff. 🚀
+
+### What I know:
+* HTML5 & CSS3
+* JavaScript
+* Python
+* Git and Github
+* Django
+* SQL (A little bit 😄)
 
 ### What I'm learning:
 * JavaScript 🚀

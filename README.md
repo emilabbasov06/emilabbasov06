@@ -1,23 +1,37 @@
-# Hey there! 😄
+# Hi there! 👋 I'm Emil  
 
-I'm Emil, a 18 year old who's passionate about coding and building stuff. 🚀
+I'm an 18-year-old **Software Developer** passionate about crafting modern and user-friendly web applications. I specialize in **Front-End Development**, leveraging technologies like **JavaScript**, **React**, **Django**, and **FastAPI** to build impactful digital solutions.  
 
-### What I know:
-* HTML5 & CSS3
-* JavaScript
-* Python
-* Git and Github
-* Django
-* SQL (A little bit 😄)
+🌱 **Currently learning**:  
+- Advanced **ReactJS** for creating seamless UI experiences.  
+- **FastAPI** for building efficient and scalable APIs.  
 
-### What I'm learning:
-* JavaScript 🚀
-* React and Redux Toolkit 🌐
+💻 **What I do**:  
+- Design and develop responsive front-end applications.  
+- Integrate back-end services for full-stack solutions.  
+- Explore and experiment with emerging technologies to stay ahead.  
 
-### Some of my projects:
-* https://facebook-login-page-brown.vercel.app - Facebook Login Page Clone that I built. 
-* https://lanhost-web.vercel.app/ - A simple website I built with responsive design.
+## 🌟 Projects  
+Some of my notable works:  
+- **AZFlix.az**: A platform to discover detailed information about movies.  
+- [More Projects](https://github.com/your-github-username?tab=repositories)
 
-Let's be friends! 🤝
-* emilabb13@gmail.com
-* https://www.linkedin.com/in/emil-abbasov-39b12a218
+## 📬 Get in Touch  
+Feel free to reach out or connect with me:  
+- **Email**: [emilabb13@gmail.com](mailto:emilabb13@gmail.com)  
+- **Portfolio**: [myportfolio-zeta-ecru.vercel.app](https://myportfolio-zeta-ecru.vercel.app/)  
+- **Phone**: +994-50-357-3974  
+
+## 🛠️ Technologies & Tools  
+- **Languages**: JavaScript, Python  
+- **Frontend**: ReactJS, HTML, CSS  
+- **Backend**: Django, FastAPI  
+- **Version Control**: Git, GitHub  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+
+---
+
+Let's create something amazing together! 🚀  

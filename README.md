@@ -11,11 +11,6 @@ I'm an 18-year-old **Software Developer** passionate about crafting modern and u
 - Integrate back-end services for full-stack solutions.  
 - Explore and experiment with emerging technologies to stay ahead.  
 
-## 🌟 Projects  
-Some of my notable works:  
-- **AZFlix.az**: A platform to discover detailed information about movies.  
-- [More Projects](https://github.com/your-github-username?tab=repositories)
-
 ## 📬 Get in Touch  
 Feel free to reach out or connect with me:  
 - **Email**: [emilabb13@gmail.com](mailto:emilabb13@gmail.com)  

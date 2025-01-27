@@ -24,8 +24,8 @@ Feel free to reach out or connect with me:
 - **Version Control**: Git, GitHub  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilabbasov06&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilabbasov06&layout=compact&theme=radical)  
 
 ---
 

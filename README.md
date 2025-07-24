@@ -14,7 +14,7 @@ I'm an 18-year-old **Software Developer** passionate about crafting modern and u
 ## 📬 Get in Touch  
 Feel free to reach out or connect with me:  
 - **Email**: [emilabb13@gmail.com](mailto:emilabb13@gmail.com)  
-- **Portfolio**: [emilabbasov.com](https://emilabbasov.com/)  
+- **Portfolio**: [emilabbasov.com](https://www.emilabbasov.com/)  
 - **Phone**: +994-50-357-3974  
 
 ## 🛠️ Technologies & Tools  

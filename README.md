@@ -14,11 +14,11 @@ I'm an 18-year-old **Software Developer** passionate about crafting modern and u
 ## 📬 Get in Touch  
 Feel free to reach out or connect with me:  
 - **Email**: [emilabb13@gmail.com](mailto:emilabb13@gmail.com)  
-- **Portfolio**: [myportfolio-zeta-ecru.vercel.app](https://myportfolio-zeta-ecru.vercel.app/)  
+- **Portfolio**: [emilabbasov.com](https://emilabbasov.com/)  
 - **Phone**: +994-50-357-3974  
 
 ## 🛠️ Technologies & Tools  
-- **Languages**: JavaScript, Python  
+- **Languages**: C, C++, JavaScript, Python
 - **Frontend**: ReactJS, HTML, CSS  
 - **Backend**: Django, FastAPI  
 - **Version Control**: Git, GitHub  

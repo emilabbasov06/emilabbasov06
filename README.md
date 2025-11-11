@@ -41,7 +41,6 @@ Feel free to reach out or connect:
 ### Contribution & Activity
 ![GitHub Contributions](https://ghchart.rshah.org/emilabbasov06)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emilabbasov06&theme=radical)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emilabbasov06&theme=react-dark)  
 
 ### Achievements & Trophies
 [![Trophy](https://github-profile-trophy.vercel.app/?username=emilabbasov06&theme=radical)](https://github.com/emilabbasov06)

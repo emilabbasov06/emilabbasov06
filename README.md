@@ -1,32 +1,47 @@
-# Hi there! 👋 I'm Emil  
+# Hi there! 👋 I'm Emil
 
-I'm an 18-year-old **Software Developer** passionate about crafting modern and user-friendly web applications. I specialize in **Front-End Development**, leveraging technologies like **JavaScript**, **React**, **Django**, and **FastAPI** to build impactful digital solutions.  
-
-🌱 **Currently learning**:  
-- Advanced **ReactJS** for creating seamless UI experiences.  
-- **FastAPI** for building efficient and scalable APIs.  
-
-💻 **What I do**:  
-- Design and develop responsive front-end applications.  
-- Integrate back-end services for full-stack solutions.  
-- Explore and experiment with emerging technologies to stay ahead.  
-
-## 📬 Get in Touch  
-Feel free to reach out or connect with me:  
-- **Email**: [emilabb13@gmail.com](mailto:emilabb13@gmail.com)  
-- **Portfolio**: [emilabbasov.com](https://www.emilabbasov.com/)  
-- **Phone**: +994-50-357-3974  
-
-## 🛠️ Technologies & Tools  
-- **Languages**: C, C++, JavaScript, Python
-- **Frontend**: ReactJS, HTML, CSS  
-- **Backend**: Django, FastAPI  
-- **Version Control**: Git, GitHub  
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilabbasov06&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilabbasov06&layout=compact&theme=radical)  
+I'm an 19-year-old **Software Developer** passionate about building modern, user-friendly, and full-stack applications. I enjoy exploring new technologies, improving my skills, and creating projects that make an impact.
 
 ---
 
-Let's create something amazing together! 🚀  
+## 🌱 Currently Learning
+- Advanced **Ruby** for backend and scripting projects  
+
+---
+
+## 💻 What I Do
+- Design and develop **responsive front-end applications**  
+- Build and integrate **back-end services** for full-stack solutions  
+- Experiment with emerging technologies to stay ahead  
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages:** Ruby, C, C++, JavaScript, Python
+- **Frontend:** ReactJS, HTML5, CSS3, TailwindCSS, Bootstrap
+- **Backend:** FastAPI
+- **Version Control:** Git, GitHub
+
+---
+
+## 📬 Get in Touch
+Feel free to reach out or connect:  
+- **Email:** [emilabb13@gmail.com](mailto:emilabb13@gmail.com)  
+- **Portfolio:** [emilabbasov.com](https://www.emilabbasov.com/)  
+- **Phone:** +994-50-357-3974  
+
+---
+
+## 📊 GitHub Stats
+
+### Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilabbasov06&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilabbasov06&layout=compact&theme=radical)  
+
+### Contribution & Activity
+![GitHub Contributions](https://ghchart.rshah.org/emilabbasov06)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emilabbasov06&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emilabbasov06&theme=react-dark)  
+
+### Achievements & Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=emilabbasov06&theme=radical)](https://github.com/emilabbasov06)

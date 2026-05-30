@@ -5,7 +5,7 @@ I'm an 19-year-old **Software Developer** passionate about building modern, user
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Ruby** for backend and scripting projects  
+- **Golang** for backend and scripting projects  
 
 ---
 
@@ -17,8 +17,8 @@ I'm an 19-year-old **Software Developer** passionate about building modern, user
 ---
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Ruby, C, C++, JavaScript, Python
-- **Frontend:** ReactJS, HTML5, CSS3, TailwindCSS, Bootstrap
+- **Languages:** Golang, C, C++, JavaScript, Python
+- **Frontend:** ReactJS, NextJS, HTML5, CSS3, TailwindCSS, Bootstrap
 - **Backend:** FastAPI
 - **Version Control:** Git, GitHub
 
